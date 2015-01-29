@@ -34,5 +34,5 @@ MonoBehaviour:
   - UGUI / ON VECTOR2 VALUE CHANGED
   - Options Click
   - Exit Click
-  - PausePressed
   - Back Click
+  - Move
